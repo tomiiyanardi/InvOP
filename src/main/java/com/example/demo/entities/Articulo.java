@@ -40,7 +40,4 @@ public class Articulo extends Base{
 
     @Column(name = "tiempo_entre_pedidos")
     private int tiempo_entre_pedidos;
-
-
-
 }

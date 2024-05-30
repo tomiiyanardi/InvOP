@@ -4,9 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6385829-fc9d-4840-b4b9-321d3cd8ef8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/entities/Articulo.java" afterDir="false" />
+    <list default="true" id="f6385829-fc9d-4840-b4b9-321d3cd8ef8b" name="Changes" comment="articulo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/NuestraPrimeraApiRestApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/config/CustomRevisionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/controllers/AutorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/controllers/BaseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/example/demo/controllers/BaseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/controllers/BaseControllerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/example/demo/controllers/BaseControllerImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/controllers/LocalidadController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/controllers/PersonaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/example/demo/controllers/PersonaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/entities/Autor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/entities/Domicilio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/entities/Libro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/entities/Localidad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/entities/Persona.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/example/demo/entities/Persona.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/entities/audit/Revision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/repositories/AutorRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/repositories/LocalidadRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/repositories/PersonaRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/example/demo/repositories/PersonaRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/services/AutorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/services/AutorServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/services/BaseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/example/demo/services/BaseService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/services/BaseServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/example/demo/services/BaseServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/services/LocalidadService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/services/LocalidadServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/services/PersonaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/example/demo/services/PersonaService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/demo/services/PersonaServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/example/demo/services/PersonaServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/entities/Articulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/entities/Articulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +154,19 @@
       <option name="presentableId" value="Default" />
       <updated>1685815369568</updated>
     </task>
+    <task id="LOCAL-00001" summary="articulo">
+      <option name="closed" value="true" />
+      <created>1717080402799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717080402799</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="articulo" />
+    <option name="LAST_COMMIT_MESSAGE" value="articulo" />
   </component>
 </project>
