@@ -16,11 +16,9 @@ public class Demanda_historica extends Base{
     @Column(name = "cantidad_total")
     private int cantidad_total;
 
-    @Data
     @Column(name = "fecha_desde")
-    private LocalData fecha_desde;
+    private Data fecha_desde;
 
-    @Data
     @Column(name = "fecha_hasta")
-    private LocalData fecha_hasta;
+    private Data fecha_hasta;
 }
